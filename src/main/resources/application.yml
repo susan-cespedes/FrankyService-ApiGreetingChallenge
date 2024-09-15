@@ -1,0 +1,11 @@
+spring:
+  application:
+  name : FrankyService
+messages:
+   basename: messages
+   encoding: UTF-8
+   fallback-to-system-locale: false
+server:
+  port: 9090
+
+messageGreeting: "Pregúntate si lo que estas haciendo hoy te acerca al lugar en el que quieres estar mañana."
